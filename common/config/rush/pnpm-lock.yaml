@@ -13580,7 +13580,7 @@ packages:
     dev: false
 
   file:projects/web.tgz_ts-node@9.1.1:
-    resolution: {integrity: sha512-z+ecABr4LvMwVnB5YST3pGvs3YPcU/ujuVis9JaUI1igzXZAlBqHSgvQqR/PIZ7l5Z7hRa+Cbi/3DcFjKOd5CQ==, tarball: file:projects/web.tgz}
+    resolution: {integrity: sha512-gdWhfh8ZDMcBE9Dlq7NsPtCV9yMNDDqmQBM5FoN/lZPCu0slvBVxrEuabNHD3fjKsbkDNrw6fVi338xeZe3ryQ==, tarball: file:projects/web.tgz}
     id: file:projects/web.tgz
     name: '@rush-temp/web'
     version: 0.0.0
@@ -13597,6 +13597,7 @@ packages:
       react-scripts: 4.0.3_37b00bdf1bcf3e2bf7972c1bbdaea990
       typescript: 4.3.5
       web-vitals: 1.1.2
+      webpack: 4.44.2
     transitivePeerDependencies:
       - '@testing-library/dom'
       - '@types/webpack'

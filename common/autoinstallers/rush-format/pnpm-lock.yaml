@@ -1,0 +1,20 @@
+dependencies:
+  git-format-staged: 2.1.1
+  prettier: 2.2.1
+lockfileVersion: 5.2
+packages:
+  /git-format-staged/2.1.1:
+    dev: false
+    hasBin: true
+    resolution:
+      integrity: sha512-Db4QiAymao9BfpTBCdEcF53jBZfKuwIigqhNmtODD+KOKbxrdDVMDeAs+P7eqJl9udlBZejhRKRbyFRtKLbVmA==
+  /prettier/2.2.1:
+    dev: false
+    engines:
+      node: '>=10.13.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
+specifiers:
+  git-format-staged: ^2.1.1
+  prettier: 2.2.1

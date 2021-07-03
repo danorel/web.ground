@@ -296,7 +296,7 @@
      * The default branch name. This tells "rush change" which remote branch to compare against.
      * The default value is "master"
      */
-    // "defaultBranch": "master",
+     "defaultBranch": "main"
 
     /**
      * The default remote. This tells "rush change" which remote to compare against if the remote URL is
@@ -448,13 +448,11 @@
     // 
      {
        "packageName": "api",
-       "projectFolder": "apps/api",
-       "reviewCategory": "apps"
+       "projectFolder": "apps/api"
      },
      {
        "packageName": "web",
-       "projectFolder": "apps/web",
-       "reviewCategory": "apps"
+       "projectFolder": "apps/web"
      }
   ]
 }
